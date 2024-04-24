@@ -1,0 +1,11 @@
+image tag:
+<HTML>
+<HEAD>
+<Title>flowers</Title>
+<HEAD>
+<body>
+<h1>   flower</h1>
+<img src="flower.jpg" width = "400" height = "500">
+<img scr=https://th.bing.com/th/id/R.bc7e9c3c61c289c1806b675632947b20?rik=xebtItOjWThvcw&riu=http%3a%2f%2fwww.forestwander.com%2fwp-content%2foriginal%2f2011_06%2fpretty-flowers.jpg&ehk=t9AhCDrD%2fWT3fzWPH0w0IY%2bJ320qOim3mTSawHGF3TI%3d&risl=&pid=ImgRaw&r=0>
+</body>
+</html>

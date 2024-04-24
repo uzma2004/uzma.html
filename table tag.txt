@@ -1,0 +1,28 @@
+<Html>
+<head>
+  <h1>BOOK DETAILS </h1>
+</head>
+<body>
+  <table>
+    <tr>
+      <th>BOOK ID</th>
+      <th>BOOK NAME</th>
+      <th>AUTHOR</th>
+      <th>PUBLISHER</th>
+    </tr>
+        <tr>
+          <td>101</td>
+          <td>A LIFE IN MOVIES</td>
+          <td>Irrfan khan</td>
+          <td>2004/td>
+          </tr>
+     <tr>
+        <td>102</td>
+        <td>A FAMILY HISTORY</td>
+        <td>SIMON SEBAG</td>
+        <td>2010</td>
+     </tr>
+
+</table>
+</body>
+</Html>
