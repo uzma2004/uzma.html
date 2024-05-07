@@ -1,0 +1,10 @@
+<html>
+<head>
+  <title>INLINE styling</title>
+</head>
+<body>
+<h1 style="colour=red; fount-size:18px;">
+This is inline styling
+</h1>
+</body>
+</html>
